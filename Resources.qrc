@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>image/home.jpg</file>
+        <file>image/Untitled-1.png</file>
+        <file>image/search.png</file>
+        <file>image/man(1).png</file>
+        <file>image/showperformance.png</file>
+        <file>image/LeaveForApplication.png</file>
+        <file>image/2286286.png</file>
+    </qresource>
+    <qresource prefix="/Report">
+        <file>Report/Report.txt</file>
+    </qresource>
+</RCC>
